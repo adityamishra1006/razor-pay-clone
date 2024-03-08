@@ -4,11 +4,12 @@
   "description": "Making Clone of Razor Pay website",
   "main": "index.js",
   "scripts": {
-   "start": "vite"
+    "start": "vite"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "feather": "^0.0.5",
     "vite": "^5.1.5"
   },
   "devDependencies": {
